@@ -1,6 +1,6 @@
 # Hello there; welcome to Mayowa space👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-fajmayor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fajmayor)](https://www.linkedin.com/in/fajmayor) [![Twitter Badge](https://img.shields.io/badge/-@fajmayor_nice-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/fajmayor_nice)](https://twitter.com/fajmayor_nice)
+[![Linkedin Badge](https://img.shields.io/badge/-fajmayor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fajmayor)](https://www.linkedin.com/in/fajmayor) 
 
 I'm a DevOps/Cloud Engineer, AWS CCP & OCI Multi-cloud. I currently works as a DevOps Engineer at Zollis Solutions handling [Densu Media](https://densu.com) Cloud Infrastructure management projects. I'm passionate about sharing knowledge, Documentation, Cloud DevOps, Open Source Contributions, Continous Integration and Continuous Development, Cloud Infrastructure support and others to make your business agile, secure and scalable.
 
