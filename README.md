@@ -15,5 +15,5 @@ I'm a DevOps/Cloud Engineer, AWS CCP & OCI Multi-cloud. I currently works as a D
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=fajmayor&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajmayor&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=fajmayor&show_icons=true&include_all_commits=true&hide_border=true" alt="Mayowa's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajmayor&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
 | ------------- | ------------- |
